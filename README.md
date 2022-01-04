@@ -1,6 +1,7 @@
 ### Hi ! I'm Aniket Kharel, who .... as written on my bio 🤣.
 
 - 🔭 Maybe i am currenlty drinking a cup of tea... maybe not....
+- 💻 maybe hitting those one tap headshot in VALORANT 🤣
 - 🌱 Always trying to push myself forward. 
 - 💬 i can share my knowledge on **NodeJS, React, IoT, Java, SQL, Javascript..etc..**
 - 📫 you can reach me: **aniketkhareldev@gmail.com**
