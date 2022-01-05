@@ -1,7 +1,7 @@
 ### <div class="center"> <img src="img/sherrif.png" width="520" height="280" alt="sherrif">  </div>
 
-- <div> maybe i am currenlty drinking a cup of tea... <img src="img/tea.png" width="30" height="30" alt="tea">  maybe not....</div>
-- <div> 💻 maybe hitting those one tap headshot   <img src="img/hs.png" width="40" height="40" alt="hs"> in VALORANT 🤣 </div>
+- <div> maybe i am currenlty drinking a cup of <img src="img/tea.png" width="30" height="30" alt="tea"> or maybe not....</div>
+- <div> 💻 maybe hitting those one tap  <img src="img/hs.png" width="40" height="40" alt="hs"> in VALORANT 🤣 </div>
 - 🌱 Always trying to push myself forward. 
 - 💬 i can share my knowledge on **NodeJS, React, IoT, Java, SQL, Javascript..etc..**
 - 📫 you can reach me: **aniketkhareldev@gmail.com**
