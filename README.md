@@ -1,4 +1,4 @@
-### <div class="center"> <img src="img/sherrif.png" width="520" height="280" alt="sherrif">  </div>
+### Even the IDE is smarter than me because it can tell where I’m missing the semicolon.
 
 - <div> maybe i am currenlty drinking a cup of <img src="img/tea.png" width="30" height="30" alt="tea"> or maybe not....</div>
 - <div> 💻 maybe hitting those <img src="img/hs.png" width="40" height="40" alt="hs"> in VALORANT 🤣 </div>
