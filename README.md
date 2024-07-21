@@ -1,6 +1,6 @@
 ### Even the IDE is smarter than me because it can tell where I’m missing the semicolon.
 
-- <div> streaming at </a> <a href="https://www.twitch.tv/codeandload" target="_blank"> </a> </p> or maybe at <a href="https://www.youtube.com/@codeandload" target="_blank"> </a></div>
+- <div> streaming at <a href="https://www.twitch.tv/codeandload" target="_blank"> twitch.tv/codeandload </a> </p> or maybe at <a href="https://www.youtube.com/@codeandload" target="_blank"> youtube.com/@codeandload </a></div>
 - <div> 💻 maybe hitting those <img src="img/hs.png" width="40" height="40" alt="hs"> in VALORANT 🤣 </div>
 - 🌱 Always trying to push myself forward. 
 - 💬 i can share my knowledge on **NodeJS, React, IoT, Java, SQL, Javascript..etc..**
